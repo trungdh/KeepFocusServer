@@ -1,0 +1,27 @@
+{
+  "name": "mycavnus_app",
+  "version": "1.0.0",
+  "description": "init server to build web restful api",
+  "main": "./node_modules/server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungdh/KeepFocusServer.git"
+  },
+  "keywords": [
+    "cavnus"
+  ],
+  "author": "trungdh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungdh/KeepFocusServer/issues"
+  },
+  "homepage": "https://github.com/trungdh/KeepFocusServer#readme"
+}
